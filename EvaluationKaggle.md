@@ -1,4 +1,4 @@
-	#This text has been copied from Kaggle Competition.
+	# This text has been copied from Kaggle Competition.
 		>Your submission is scored according to the penalty cost to Santa for suboptimal scheduling. The constraints and penalties are as follows:
 		>The total number of people attending the workshop each day must be between 125 - 300; if even one day is outside these occupancy constraints, the submission will error and will not be scored.
 		>Santa provides consolation gifts (of varying value) to families according to their assigned day relative to their preferences. These sum up per family, and the total represents the preferencecost.
