@@ -1,5 +1,5 @@
 # DataScience-2019-PUSK
-This repository was created for final project at Data Science course by Alexander Duymin in MEPhI 2019 (7th term). Contributors are: Panfilov Ivan, Усман Дмитрий(Usman Dmitri), Smirnov Alexander, Kutuzov Artem (PUSK)
+This repository was created for final project at Data Science course by Alexander Duymin in MEPhI 2019 (7th term). Contributors are: [Панфилов Иван (Panfilov Ivan)](https://github.com/vanyapanf), [Усман Дмитрий(Usman Dmitri)](https://github.com/DimaUsman), [Смирнов Александр(Smirnov Alexander)](https://github.com/Sashasmir0511), [Кутузов Артём(Kutuzov Artem)](https://github.com/ArtemCoolAc) (PUSK)
 
 ## Table Of Contents
 - [Project](#project)
