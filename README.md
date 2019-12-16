@@ -57,6 +57,7 @@ In nutshell, this library allows finding the most suitable values of parameters 
 
 #### Example
 **Maximize 3x + 4y subject to the following constraints:**
+
 | Restriction |
 | :---: |
 | x + 2y	≤	14 |
