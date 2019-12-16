@@ -1,5 +1,5 @@
 # DataScience-2019-PUSK
-This repository was created for final project at Data Science course by Alexander Duymin in MEPhI 2019 (7th term). Contributors are: Panfilov Ivan, Усман Дмитрий, Smirnov Alexander, Kutuzov Artem (PUSK)
+This repository was created for final project at Data Science course by Alexander Duymin in MEPhI 2019 (7th term). Contributors are: Panfilov Ivan, Усман Дмитрий(Usman Dmitri), Smirnov Alexander, Kutuzov Artem (PUSK)
 
 ## Table Of Contents
 - [Project](#project)
@@ -135,7 +135,7 @@ def solveSantaLP(ni_,nj_):
             candidates[j].append(i)
             x[i, j] = S.BoolVar('x[%i,%i]' % (i, j))
   ```
-  - **Quantity of family for each choice ** 
+  - **Quantity of family for each choice** 
    ``` python
     qq=[S.Sum([x[i, DESIRED[i,j]] for i in range(N_FAMILIES)])
                        for j in range(10)]
