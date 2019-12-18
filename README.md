@@ -208,13 +208,16 @@ def solveSantaLP(ni_,nj_):
    - [Presentantion for Sponsors](http://slides.com/artemcoolac/deck-c21821/fullscreen).
  - **Иван Панфилов**:
    - Discovering;
-   - Creation of model;
-   - Help with codding;
+   - Creation the model;
+   - Helping with codding;
  - **Дмитрий Усман**:
    - [Realization of model](./submission_73509.csv);
    - [Codding](./santa_competition.py);
-   - Help with presentations;
+   - Helping with presentations;
    - Documentation of work in Github;
  - **Артём Кутузов**:
    - Creation and managing Github;
-   - [Presentantion for Analysts](http://slides.com/artemcoolac/deck/fullscreen).
+   - [Presentantion for Analysts](http://slides.com/artemcoolac/deck/fullscreen);
+   - Helping with Presentation for sponsors.
+### Thank you for good work and efforts spent on it!
+As it would be sad it is actually the endgame. This project is likely the last one which is done together, inside a company of groupmates during studying for bachelor. That is the 7th term and despite many circumstances we were happy to take part in a common holiday of life)
